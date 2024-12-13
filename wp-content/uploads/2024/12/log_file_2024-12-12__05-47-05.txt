@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/workground5
+Data file = C:\wamp64\www\workground5/wp-content/uploads/2024/12/demo-content-import-file_2024-12-12__05-47-05.xml
+Widget file = C:\wamp64\www\workground5/wp-content/uploads/2024/12/demo-widgets-import-file_2024-12-12__05-47-05.json
+Customizer file = C:\wamp64\www\workground5/wp-content/uploads/2024/12/demo-customizer-import-file_2024-12-12__05-47-05.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Block - No Title - Imported
+Recent Posts Advanced - Latest Posts - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar Page : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar Shop : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
